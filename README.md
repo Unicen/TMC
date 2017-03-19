@@ -10,7 +10,9 @@ Este repositorio corresponde al curso Taller de Matemática Computacional que se
 
 Clonar un repositorio (o repo, como se le dice en la jerga) es algo que cualquier programador que se precie de tal debe saber hacer. Acá te vamos a enseñar cómo hacer para clonar este repositorio en particular, pero deberías poder hacer esto en cualquier otra materia que trabaje con Github.
 
-1. sdfsdfsdfsdf
+1. Descargar e instalar [git](https://www.git-scm.com/downloads)
+2. Abrir una linea de comandos e ir a la ubicación donde queremos guardar el repo: ``cd ~/Documents``
+3. Clonar el repositorio: ``git clone https://github.com/Unicen/TMC.git``
 
 ##Trabajo Práctico Nº 1 - Lógica
 

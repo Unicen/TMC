@@ -4,11 +4,11 @@
 Este repositorio corresponde al curso Taller de Matemática Computacional que se dicta en el primer año de la carrera Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI).
 
 **Tabla de contenidos:**
-1. [Cómo clonar el repositorio](#clone)
-2. [Trabajo Práctico Nº 1 - Lógica](#tp1)
- 1. [Antes de empezar...](#tp1-pre)
- 2. [Observar un objeto espacial](#tp1-observar)
- 3. [Actuar sobre un objeto](#tp1-actuar)
+1. [Cómo clonar el repositorio](#cómo-clonar-el-repositorio)
+2. [Trabajo Práctico Nº 1 - Lógica](#trabajo-práctico-nº-1---lógica)
+ 1. [Antes de empezar...](#antes-de-empezar)
+ 2. [Observar un objeto espacial](#observar-un-objeto-espacial)
+ 3. [Actuar sobre un objeto](#actuar-sobre-un-objeto)
  
 ## Cómo clonar el repositorio
 

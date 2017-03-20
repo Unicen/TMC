@@ -27,6 +27,8 @@ Para empezar hay que tener instalado [Octave](https://www.gnu.org/software/octav
 3. Entrar en la carpeta tp1-logica.
 4. Ejecutar el comando ``inicializar_o_restaurar`` escribiendo directamente en la consola de Octave. Si todo anduvo bien deberían ver algo así.
 
+![alt text](https://raw.githubusercontent.com/Unicen/TMC/master/resources/tp1-init.png "inicializar_o_restaurar")
+
 ### Observar un objeto espacial
 1. Escribir ``observar`` en la consola y presionar Enter.
 2. Como resultado aparecerá en el workspace una variable llamada ``objetoObservado``.

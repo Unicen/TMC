@@ -4,8 +4,12 @@
 Este repositorio corresponde al curso Taller de Matemática Computacional que se dicta en el primer año de la carrera Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI).
 
 **Tabla de contenidos:**
-
-
+1. [Cómo clonar el repositorio](#clone)
+2. [Trabajo Práctico Nº 1 - Lógica](#tp1)
+ 1. [Antes de empezar...](#tp1-pre)
+ 2. [Observar un objeto espacial](#tp1-observar)
+ 3. [Actuar sobre un objeto](#tp1-actuar)
+ 
 ## Cómo clonar el repositorio
 
 Clonar un repositorio (o repo, como se le dice en la jerga) es algo que cualquier programador que se precie de tal debe saber hacer. Acá te vamos a enseñar cómo hacer para clonar este repositorio en particular, pero deberías poder hacer esto en cualquier otra materia que trabaje con Github.
@@ -14,7 +18,7 @@ Clonar un repositorio (o repo, como se le dice en la jerga) es algo que cualquie
 2. Abrir una linea de comandos e ir a la ubicación donde queremos guardar el repo: ``cd ~/Documents``
 3. Clonar el repositorio: ``git clone https://github.com/Unicen/TMC.git``
 
-##Trabajo Práctico Nº 1 - Lógica
+## Trabajo Práctico Nº 1 - Lógica
 
 El enunciado está acá.
 

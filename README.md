@@ -20,7 +20,7 @@ Clonar un repositorio (o repo, como se le dice en la jerga) es algo que cualquie
 
 ## Trabajo Práctico Nº 1 - Lógica
 
-El enunciado está acá.
+El [enunciado](https://github.com/Unicen/TMC/blob/master/tp1-logica/enunciado.pdf) está [acá](https://github.com/Unicen/TMC/blob/master/tp1-logica/enunciado.pdf).
 
 ### Antes de empezar...
 

@@ -9,7 +9,7 @@ function esta = estaEnLaLista(nombre, lista)
     % pregunto si el elemento actual de 'lista' es 'nombre'
     if strcmp(lista{i}, nombre)
       % si está asigno true a valor de verdad y no hace falta que siga ciclando
-      valorDeVerdad = true;
+      esta = true;
       break
     end
   end

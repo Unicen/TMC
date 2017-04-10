@@ -1,6 +1,6 @@
 
 % Tomo un elemento al azar
-posicion = uint8(rand * length(objetos_espaciales) + 1);
+posicion = uint8(rand * (length(objetos_espaciales) - 1)) + 1;
 
 % Lo devuelvo
 objetoObservado = objetos_espaciales{posicion};

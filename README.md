@@ -9,6 +9,9 @@ Este repositorio corresponde al curso Taller de Matemática Computacional que se
     1. [Antes de empezar...](#antes-de-empezar)
     2. [Observar un objeto espacial](#observar-un-objeto-espacial)
     3. [Actuar sobre un objeto](#actuar-sobre-un-objeto)
+3. [Actualizar el repositorio](#actualizar-el-repositorio)
+    1. [En un equipo del laboratorio](#en-un-equipo-del-laboratorio)
+    2. [En nuestra computadora](#en-nuestra-computadora)
  
 ## Cómo clonar el repositorio
 
@@ -40,3 +43,20 @@ Para empezar hay que tener instalado [Octave](https://www.gnu.org/software/octav
 ### Actuar sobre un objeto
 1. **Importante!** Editar la función ``actuar`` antes de usarla para que haga lo que queremos :-)
 2. Escribimos ``actuar(objetoObservado)`` en la consola. 
+
+## Actualizar el repositorio
+
+La actualización se realiza desde la linea de comandos (git cmd en Windows o terminal en Linux/OSX).
+
+### En un equipo del laboratorio
+
+1. Borrar la carpeta
+``rd /s /q TMC`` 
+2. Volver a [clonar](#cómo-clonar-el-repositorio)
+
+### En nuestra computadora
+
+1. Entrar a la carpeta TMC 
+``cd TMC`` 
+2. Decirle a git que traiga los cambios del servidor de origen
+``git pull origin master``

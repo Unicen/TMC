@@ -11,9 +11,18 @@ addpath(genpath(fullfile(pwd, 'funciones-soporte'))) ;
 clear
 clc
 
+
 % Ahora vamos a cargar la imagen de fondo, que es la que vamos a usar 
 % para simular que estamos volando en el espacio... y de verdad :)
 espacio = imread(fullfile(pwd, 'images', 'background.png'));
+
+% Por defecto, lo_que_ya_mine va a ser todo 0
+tamanio = size(espacio);
+lo_que_mine_antes = zeros(tamanio(1), tamanio(2));
+
+% Elimino las variables innecesarias
+clear 'tamanio'
+
 clc
 
 % Avisamos que todo anduvo bien

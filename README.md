@@ -67,7 +67,7 @@ La actualización se realiza desde la linea de comandos (git cmd en Windows o te
 
 ## Trabajo Práctico Nº 2 - Conjuntos
 
-El [enunciado](https://github.com/Unicen/TMC/blob/master/tp1-logica/enunciado.pdf) está [acá](https://github.com/Unicen/TMC/blob/master/tp1-logica/enunciado.pdf).
+El [enunciado](https://github.com/Unicen/TMC/blob/master/tp2-conjuntos/enunciado.pdf) está [acá](https://github.com/Unicen/TMC/blob/master/tp2-conjuntos/enunciado.pdf).
 
 ### Antes de empezar...
 

@@ -12,6 +12,10 @@ Este repositorio corresponde al curso Taller de Matemática Computacional que se
 3. [Actualizar el repositorio](#actualizar-el-repositorio)
     1. [En un equipo del laboratorio](#en-un-equipo-del-laboratorio)
     2. [En nuestra computadora](#en-nuestra-computadora)
+4. [Trabajo Práctico Nº 2 - Conjuntos](#trabajo-práctico-nº-2---conjuntos)
+    1. [Observar una región a minar](#observar-una-region-a-minar)
+    2. [Minar](#minar)
+    3. [Ver la nueva imagen del espacio](#ver-la-nueva-imagen-del-espacio)
  
 ## Cómo clonar el repositorio
 
@@ -60,3 +64,33 @@ La actualización se realiza desde la linea de comandos (git cmd en Windows o te
 ``cd TMC`` 
 2. Decirle a git que traiga los cambios del servidor de origen
 ``git pull origin master``
+
+## Trabajo Práctico Nº 2 - Conjuntos
+
+El [enunciado](https://github.com/Unicen/TMC/blob/master/tp1-logica/enunciado.pdf) está [acá](https://github.com/Unicen/TMC/blob/master/tp1-logica/enunciado.pdf).
+
+### Antes de empezar...
+
+1. Abrir Octave.
+2. Moverse hasta la ruta en la que está el repo clonado.
+3. Entrar en la carpeta tp2-conjuntos.
+4. Ejecutar el comando ``inicializar_o_restaurar`` escribiendo directamente en la consola de Octave.
+
+### Observar una región a minar
+
+1. Escribir ``observar`` en la consola y presionar Enter.
+2. Como resultado veremos en la pantalla el espacio con una region circular seleccionada.
+
+### Minar
+
+1. **Importante!** Editar la función ``minar`` antes de usarla para que haga lo que queremos :-)
+2. Escribimos en la consola: 
+```
+[espacio, espacio_minado, lo_que_mine_antes] = minar(espacio, area_a_minar, lo_que_mine_antes);
+```
+
+### Ver la nueva imagen del espacio
+Escribir ``imshow(espacio)``
+
+
+

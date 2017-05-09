@@ -11,3 +11,10 @@ addpath(genpath(fullfile(pwd, 'ejemplo'))) ;
 % Borramos todo y limpiamos la pantalla
 clear
 clc
+
+% Avisamos que todo anduvo bien
+disp('')
+disp('')
+disp('Hoy tiraremos monedas!')
+disp('')
+disp('')

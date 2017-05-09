@@ -6,7 +6,7 @@
 % ------------------------------------------------------------------------------
 
 % Inicializamos un error epsilon
-epsilon = 0.01;
+epsilon = 0.0001;
 
 % Calculamos la probabilidad para sacar cara
 [probabilidad, todas_las_probabilidades] = calcular_probabilidad_sacar_cara(epsilon);

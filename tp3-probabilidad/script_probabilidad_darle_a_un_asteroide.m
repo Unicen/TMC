@@ -17,8 +17,8 @@ espacio = imread('./images/background.png');
 [probabilidad, todas_las_probabilidades] = calcular_probabilidad_acierto(espacio, epsilon, radio_disparo);
 
 % Mostramos por pantalla la probabilidad que nos dio
-fprintf('Radio de disparo = %d: %d\n', radio_disparo);
-fprintf('Probabilidad de acierto = %d: \n', probabilidad);
+fprintf('Radio de disparo = %i: \n', radio_disparo);
+fprintf('Probabilidad de acierto = %f: \n', probabilidad);
 
 % Graficamos cómo fue evolucionando la probabilidad iteración a iteración
 figure, plot(todas_las_probabilidades);

@@ -14,9 +14,7 @@ radio_disparo = 100;
 espacio = imread('./images/background.png');
 
 % Llamamos al Montecarlo que tenemos que codear
-tic
 [probabilidad, todas_las_probabilidades] = calcular_probabilidad_acierto(espacio, epsilon, radio_disparo);
-toc
 
 % Mostramos por pantalla la probabilidad que nos dio
 fprintf('Radio de disparo = %d: %d\n', radio_disparo);

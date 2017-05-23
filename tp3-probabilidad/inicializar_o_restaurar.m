@@ -15,6 +15,6 @@ clc
 % Avisamos que todo anduvo bien
 disp('')
 disp('')
-disp('Hoy tiraremos monedas!')
+disp('Todo anduvo bien!')
 disp('')
 disp('')

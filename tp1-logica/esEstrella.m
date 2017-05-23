@@ -1,0 +1,1 @@
+function soy_estrella = esEstrella(objetoObservado)      if (esGigante(objetoObservado) && ~esPlaneta(objetoObservado) && ~esLuna(objetoObservado) && ~esUnaNave(objetoObservado) && ~esAsteroide(objetoObservado))        soy_estrella = true;      else      soy_estrella = false;    end  end

@@ -9,6 +9,7 @@ Este repositorio corresponde al curso Taller de Matemática Computacional que se
     1. [Antes de empezar...](#antes-de-empezar)
     2. [Observar un objeto espacial](#observar-un-objeto-espacial)
     3. [Actuar sobre un objeto](#actuar-sobre-un-objeto)
+<!--
 3. [Actualizar el repositorio](#actualizar-el-repositorio)
     1. [En un equipo del laboratorio](#en-un-equipo-del-laboratorio)
     2. [En nuestra computadora](#en-nuestra-computadora)
@@ -18,7 +19,7 @@ Este repositorio corresponde al curso Taller de Matemática Computacional que se
     3. [Ver la nueva imagen del espacio](#ver-la-nueva-imagen-del-espacio)
 5. [Trabajo Práctico Nº 3 - Probabilidad](#trabajo-práctico-nº-3---probabilidad)
     1. [Ejemplo - tirar la moneda](#ejemplo---tirar-la-moneda)
-    
+  -->  
 ## Cómo clonar el repositorio
 
 Clonar un repositorio (o repo, como se le dice en la jerga) es algo que cualquier programador que se precie de tal debe saber hacer. Acá te vamos a enseñar cómo hacer para clonar este repositorio en particular, pero deberías poder hacer esto en cualquier otra materia que trabaje con Github.
@@ -33,7 +34,7 @@ El [enunciado](https://github.com/Unicen/TMC/blob/master/tp1-logica/enunciado.pd
 
 ### Antes de empezar...
 
-Para empezar hay que tener instalado [Octave](https://www.gnu.org/software/octave/#install). Asumiendo que ya está instalado y que ya tenemos clonado el repo de la materia:
+<!-- Para empezar hay que tener instalado [Octave](https://www.gnu.org/software/octave/#install). Asumiendo que ya está instalado y que ya tenemos clonado el repo de la materia:
 
 1. Abrir Octave.
 2. Moverse hasta la ruta en la que está el repo clonado.
@@ -41,6 +42,7 @@ Para empezar hay que tener instalado [Octave](https://www.gnu.org/software/octav
 4. Ejecutar el comando ``inicializar_o_restaurar`` escribiendo directamente en la consola de Octave. Si todo anduvo bien deberían ver algo así.
 
 ![alt text](https://raw.githubusercontent.com/Unicen/TMC/master/resources/tp1-init.png "inicializar_o_restaurar")
+-->
 
 ### Observar un objeto espacial
 1. Escribir ``observar`` en la consola y presionar Enter.
@@ -67,6 +69,7 @@ La actualización se realiza desde la linea de comandos (git cmd en Windows o te
 2. Decirle a git que traiga los cambios del servidor de origen
 ``git pull origin master``
 
+<!--
 ## Trabajo Práctico Nº 2 - Conjuntos
 
 El [enunciado](https://github.com/Unicen/TMC/blob/master/tp2-conjuntos/enunciado.pdf) está [acá](https://github.com/Unicen/TMC/blob/master/tp2-conjuntos/enunciado.pdf).
@@ -108,4 +111,4 @@ Escribir ``imshow(espacio)``
  ejemplo_moneda
 ```
 
-
+-->

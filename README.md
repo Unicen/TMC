@@ -34,19 +34,18 @@ El [enunciado](https://github.com/Unicen/TMC/blob/master/tp1-logica/enunciado.pd
 
 ### Antes de empezar...
 
-<!-- Para empezar hay que tener instalado [Octave](https://www.gnu.org/software/octave/#install). Asumiendo que ya está instalado y que ya tenemos clonado el repo de la materia:
+<!-- Para empezar hay que tener instalado [Python](https://www.python.org/downloads/). Asumiendo que ya está instalado y que ya tenemos clonado el repo de la materia:
 
-1. Abrir Octave.
-2. Moverse hasta la ruta en la que está el repo clonado.
-3. Entrar en la carpeta tp1-logica.
-4. Ejecutar el comando ``inicializar_o_restaurar`` escribiendo directamente en la consola de Octave. Si todo anduvo bien deberían ver algo así.
+1. Moverse hasta la ruta en la que está el repo clonado.
+2. Entrar en la carpeta tp1-logica.
+3. Ejecutar el comando ``python3 -i main.py`` escribiendo directamente en la consola. Si todo anduvo bien deberían ver algo así.
 
-![alt text](https://raw.githubusercontent.com/Unicen/TMC/master/resources/tp1-init.png "inicializar_o_restaurar")
+![alt text](https://raw.githubusercontent.com/Unicen/TMC/master/resources/tp1-init.png "python3 -i main.py")
 -->
 
 ### Observar un objeto espacial
-1. Escribir ``observar`` en la consola y presionar Enter.
-2. Como resultado aparecerá en el workspace una variable llamada ``objetoObservado``.
+1. Escribir ``objetoObservado = observar()`` en la consola y presionar Enter.
+2. Como resultado una variable llamada ``objetoObservado`` tendrá el nombre de lo que hayamos visto en el espacio.
 
 ### Actuar sobre un objeto
 1. **Importante!** Editar la función ``actuar`` antes de usarla para que haga lo que queremos :-)

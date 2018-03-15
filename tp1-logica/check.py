@@ -1,4 +1,4 @@
-
+# coding=utf-8
 
 def esAsteroide(objetoObservado):
   # esta es una lista con los nombres de algunos asteroides

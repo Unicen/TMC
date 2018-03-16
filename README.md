@@ -34,14 +34,13 @@ El [enunciado](https://github.com/Unicen/TMC/blob/master/tp1-logica/enunciado.pd
 
 ### Antes de empezar...
 
-<!-- Para empezar hay que tener instalado [Python](https://www.python.org/downloads/). Asumiendo que ya está instalado y que ya tenemos clonado el repo de la materia:
+Para empezar hay que tener instalado [Python](https://www.python.org/downloads/). Asumiendo que ya está instalado y que ya tenemos clonado el repo de la materia:
 
 1. Moverse hasta la ruta en la que está el repo clonado.
 2. Entrar en la carpeta tp1-logica.
 3. Ejecutar el comando ``python3 -i main.py`` escribiendo directamente en la consola. Si todo anduvo bien deberían ver algo así.
 
 ![alt text](https://raw.githubusercontent.com/Unicen/TMC/master/resources/tp1-init.png "python3 -i main.py")
--->
 
 ### Observar un objeto espacial
 1. Escribir ``objetoObservado = observar()`` en la consola y presionar Enter.

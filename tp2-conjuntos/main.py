@@ -2,7 +2,7 @@
 
 from sets import *
 from operations import *
-from test import test
+from clasificacion import clasificacion
 
 print('')
 print('')

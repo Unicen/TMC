@@ -9,14 +9,12 @@ Este repositorio corresponde al curso Taller de Matemática Computacional que se
     1. [Antes de empezar...](#antes-de-empezar)
     2. [Observar un objeto espacial](#observar-un-objeto-espacial)
     3. [Actuar sobre un objeto](#actuar-sobre-un-objeto)
-<!--
+
 3. [Actualizar el repositorio](#actualizar-el-repositorio)
     1. [En un equipo del laboratorio](#en-un-equipo-del-laboratorio)
     2. [En nuestra computadora](#en-nuestra-computadora)
 4. [Trabajo Práctico Nº 2 - Conjuntos](#trabajo-práctico-nº-2---conjuntos)
-    1. [Observar una región a minar](#observar-una-región-a-minar)
-    2. [Minar](#minar)
-    3. [Ver la nueva imagen del espacio](#ver-la-nueva-imagen-del-espacio)
+<!--
 5. [Trabajo Práctico Nº 3 - Probabilidad](#trabajo-práctico-nº-3---probabilidad)
     1. [Ejemplo - tirar la moneda](#ejemplo---tirar-la-moneda)
   -->  
@@ -67,34 +65,18 @@ La actualización se realiza desde la linea de comandos (git cmd en Windows o te
 2. Decirle a git que traiga los cambios del servidor de origen
 ``git pull origin master``
 
-<!--
 ## Trabajo Práctico Nº 2 - Conjuntos
 
 El [enunciado](https://github.com/Unicen/TMC/blob/master/tp2-conjuntos/enunciado.pdf) está [acá](https://github.com/Unicen/TMC/blob/master/tp2-conjuntos/enunciado.pdf).
 
-### Antes de empezar...
-
-1. Abrir Octave.
+1. Abrir Git CMD.
 2. Moverse hasta la ruta en la que está el repo clonado.
-3. Entrar en la carpeta tp2-conjuntos.
-4. Ejecutar el comando ``inicializar_o_restaurar`` escribiendo directamente en la consola de Octave.
+3. Actualizar el [repo](#actualizar-el-repositorio)
+4. Entrar en la carpeta tp2-conjuntos.
+5. Ejecutar el comando ``python3 -i main.py`` escribiendo directamente en la consola.
 
-### Observar una región a minar
 
-1. Escribir ``observar`` en la consola y presionar Enter.
-2. Como resultado veremos en la pantalla el espacio con una region circular seleccionada.
-
-### Minar
-
-1. **Importante!** Editar la función ``minar`` antes de usarla para que haga lo que queremos :-)
-2. Escribimos en la consola: 
-```
-[espacio, espacio_minado, lo_que_mine_antes] = minar(espacio, area_a_minar, lo_que_mine_antes);
-```
-
-### Ver la nueva imagen del espacio
-Escribir ``imshow(espacio)``
-
+<!--
 ## Trabajo Práctico Nº 3 - Probabilidad
 
 ### Ejemplo - tirar la moneda

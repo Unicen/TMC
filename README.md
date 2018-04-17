@@ -77,4 +77,4 @@ El [enunciado](https://github.com/Unicen/TMC/blob/master/tp2-conjuntos/enunciado
 
 ## Trabajo Práctico Nº 3 - Funciones
 
-Realizar el [practico 3](https://github.com/Unicen/TMC/blob/master/tp2-funciones/enunciado.pdf) utilizando el sitio [desmos](https://www.desmos.com/calculator). 
+Realizar el [practico 3](https://github.com/Unicen/TMC/blob/master/tp3-funciones/enunciado.pdf) utilizando el sitio [desmos](https://www.desmos.com/calculator). 

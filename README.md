@@ -14,10 +14,9 @@ Este repositorio corresponde al curso Taller de Matemática Computacional que se
     1. [En un equipo del laboratorio](#en-un-equipo-del-laboratorio)
     2. [En nuestra computadora](#en-nuestra-computadora)
 4. [Trabajo Práctico Nº 2 - Conjuntos](#trabajo-práctico-nº-2---conjuntos)
-<!--
-5. [Trabajo Práctico Nº 3 - Probabilidad](#trabajo-práctico-nº-3---probabilidad)
-    1. [Ejemplo - tirar la moneda](#ejemplo---tirar-la-moneda)
-  -->  
+
+5. [Trabajo Práctico Nº 3 - Funciones](#trabajo-práctico-nº-3---funciones)
+
 ## Cómo clonar el repositorio
 
 Clonar un repositorio (o repo, como se le dice en la jerga) es algo que cualquier programador que se precie de tal debe saber hacer. Acá te vamos a enseñar cómo hacer para clonar este repositorio en particular, pero deberías poder hacer esto en cualquier otra materia que trabaje con Github.
@@ -76,19 +75,6 @@ El [enunciado](https://github.com/Unicen/TMC/blob/master/tp2-conjuntos/enunciado
 5. Ejecutar el comando ``python3 -i main.py`` escribiendo directamente en la consola.
 
 
-<!--
-## Trabajo Práctico Nº 3 - Probabilidad
+## Trabajo Práctico Nº 3 - Funciones
 
-### Ejemplo - tirar la moneda
-
-1. Actualizar el [repo](#actualizar-el-repositorio).
-2. Abrir Octave.
-3. Moverse hasta la ruta en la que está el repo clonado.
-4. Entrar en la carpeta tp3-probabilidad.
-5. Ejecutar el comando ``inicializar_o_restaurar`` escribiendo directamente en la consola de Octave.
-6. Ejecutamos el ejemplo en la consola:
-```
- ejemplo_moneda
-```
-
--->
+Realizar el [practico 3](https://github.com/Unicen/TMC/blob/master/tp2-funciones/enunciado.pdf) utilizando el sitio [desmos](https://www.desmos.com/calculator). 

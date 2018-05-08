@@ -17,7 +17,9 @@ Este repositorio corresponde al curso Taller de Matemática Computacional que se
 
 5. [Trabajo Práctico Nº 3 - Funciones](#trabajo-práctico-nº-3---funciones)
 
-6. [Trabajo Práctico Nº 4 - Funciones](#trabajo-práctico-nº-4---conteo)
+6. [Trabajo Práctico Nº 4 - Conteo](#trabajo-práctico-nº-4---conteo)
+
+6. [Trabajo Práctico Nº 4 - Probabilidad](#trabajo-práctico-nº-5---probabilidad)
 
 ## Cómo clonar el repositorio
 
@@ -83,4 +85,8 @@ Realizar el [practico 3](https://github.com/Unicen/TMC/blob/master/tp3-funciones
 
 ## Trabajo Práctico Nº 4 - Conteo
 
-Realizar el [practico 4](https://github.com/Unicen/TMC/blob/master/tp4-funciones/enunciado.pdf). 
+Realizar el [practico 4](https://github.com/Unicen/TMC/blob/master/tp4-conteo/enunciado.pdf). 
+
+## Trabajo Práctico Nº 5 - Probabilidad
+
+Realizar el [practico 5](https://github.com/Unicen/TMC/blob/master/tp5-probabilidad/enunciado.pdf).

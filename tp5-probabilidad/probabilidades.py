@@ -1,4 +1,4 @@
-from moneda import Moneda, cara, seca
+from moneda import Moneda, cara, ceca
 
 def p_huir(epsilon, iteraciones):
     # Obtenemos la moneda

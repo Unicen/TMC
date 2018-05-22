@@ -3,9 +3,9 @@ class Mapa(object):
     def __init__(self):
         self._mapa = {
             'mercurio': [14, 30, 20],
-            'tierra': [55, 41, 21],
-            'marte': [77, 24, 59],
-            'venus': [68, 76 ,112],
+            'venus': [55, 41, 21],
+            'tierra': [77, 24, 59],
+            'marte': [68, 76 ,112],
             'jupiter': [470, 3, 222],
             'saturno': [254, 101, 914],
             'urano': [534, 1666, 788],

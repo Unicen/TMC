@@ -4,17 +4,12 @@ from mapa import Mapa
 # importamos la raiz cuadrada
 from math import sqrt
 
-def distancia(origen, destino):
+def distanciaAlSol(planeta):
     mapa = Mapa()
     
-    v1 = mapa.obtenerVector(origen)
+    vectorPlaneta = mapa.obtenerVector(planeta)
     if not v1:
-        print("El planeta origen no existe")
-        return False
-
-    v2 = mapa.obtenerVector(destino)
-    if not v2:
-        print("El planeta destino no existe")
+        print("El planeta no existe")
         return False
     
     # Calcular distancia
